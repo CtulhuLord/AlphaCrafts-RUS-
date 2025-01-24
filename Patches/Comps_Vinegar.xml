@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+    <Operation Class="PatchOperationFindMod">
+        <mods>
+            <li>Alpha Crafts</li>
+        </mods>
+
+        <match Class="PatchOperationSequence">
+            <success>Always</success>
+
+            <operations>
+
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_Vinegar"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Tomato"]/value</xpath>
+                    <value>
+                        <value>Томат</value>
+                    </value>
+                </li>
+
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_Vinegar"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Apple"]/value</xpath>
+                    <value>
+                        <value>Яблоко</value>
+                    </value>
+                </li>
+
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_Vinegar"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Coconut"]/value</xpath>
+                    <value>
+                        <value>Кокос</value>
+                    </value>
+                </li>
+
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_Vinegar"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Grape"]/value</xpath>
+                    <value>
+                        <value>Виноград</value>
+                    </value>
+                </li>
+
+            </operations>
+        </match>
+
+    </Operation>
+</Patch>

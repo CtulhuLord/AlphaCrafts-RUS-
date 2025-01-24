@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <AC_InfuseMayonnaise.label>Приготовить ароматизированный майонез</AC_InfuseMayonnaise.label>
+    <AC_InfuseMayonnaise.description>Смешать домашний майонез с дополнительными ингредиентами, такими как чеснок, травы или авокадо, для создания насыщенного вкуса.</AC_InfuseMayonnaise.description>
+    <AC_InfuseMayonnaise.ingredients.0.filter.customSummary>Ингредиенты</AC_InfuseMayonnaise.ingredients.0.filter.customSummary>
+    <AC_InfuseMayonnaise.ingredients.1.filter.customSummary>Майонез</AC_InfuseMayonnaise.ingredients.1.filter.customSummary>
+    <AC_InfuseMayonnaise.jobString>Готовит ароматизированный майонез.</AC_InfuseMayonnaise.jobString>
+
+    <AC_MakeCornSyrup.label>Приготовить кукурузный сироп</AC_MakeCornSyrup.label>
+    <AC_MakeCornSyrup.description>Переработать кукурузный крахмал для преобразования глюкозы во фруктозу, создавая кукурузный сироп с высоким содержанием фруктозы.</AC_MakeCornSyrup.description>
+    <AC_MakeCornSyrup.jobString>Готовит кукурузный сироп.</AC_MakeCornSyrup.jobString>
+
+    <AC_MakeMayonnaise.label>Приготовить домашний майонез</AC_MakeMayonnaise.label>
+    <AC_MakeMayonnaise.description>Эмульгировать свежие яичные желтки и масло для создания гладкого и пикантного соуса, идеально подходящего для бутербродов, салатов и многого другого. Количество получаемого майонеза зависит от используемых яиц.</AC_MakeMayonnaise.description>
+    <AC_MakeMayonnaise.ingredients.0.filter.customSummary>Яйца</AC_MakeMayonnaise.ingredients.0.filter.customSummary>
+    <AC_MakeMayonnaise.ingredients.1.filter.customSummary>Уксус</AC_MakeMayonnaise.ingredients.1.filter.customSummary>
+    <AC_MakeMayonnaise.ingredients.2.filter.customSummary>Масла</AC_MakeMayonnaise.ingredients.2.filter.customSummary>
+    <AC_MakeMayonnaise.jobString>Готовит домашний майонез.</AC_MakeMayonnaise.jobString>
+
+    <AC_PickleEggs.label>Замариновать яйца</AC_PickleEggs.label>
+    <AC_PickleEggs.description>Законсервировать яйца, выдержав их в уксусном рассоле, чтобы они впитали терпкий вкус. Количество получаемых маринованных яиц зависит от используемых яиц.</AC_PickleEggs.description>
+    <AC_PickleEggs.ingredients.0.filter.customSummary>Яйца</AC_PickleEggs.ingredients.0.filter.customSummary>
+    <AC_PickleEggs.ingredients.1.filter.customSummary>Уксус</AC_PickleEggs.ingredients.1.filter.customSummary>
+    <AC_PickleEggs.jobString>Маринует яйца.</AC_PickleEggs.jobString>
+
+    <AC_PickleVegetables.label>Замариновать овощи</AC_PickleVegetables.label>
+    <AC_PickleVegetables.description>Законсервировать свежие овощи, выдержав их в уксусном рассоле, чтобы они впитали терпкий вкус и приобрели хрустящую текстуру. Количество получаемых маринованных овощей зависит от используемых овощей.</AC_PickleVegetables.description>
+    <AC_PickleVegetables.ingredients.0.filter.customSummary>Овощи</AC_PickleVegetables.ingredients.0.filter.customSummary>
+    <AC_PickleVegetables.ingredients.1.filter.customSummary>Уксус</AC_PickleVegetables.ingredients.1.filter.customSummary>
+    <AC_PickleVegetables.jobString>Маринует овощи.</AC_PickleVegetables.jobString>
+
+</LanguageData>

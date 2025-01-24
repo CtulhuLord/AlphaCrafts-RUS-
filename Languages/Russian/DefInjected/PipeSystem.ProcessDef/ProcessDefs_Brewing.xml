@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <AC_CoffeeToLiquor.label>Ферментировать кофейный ликёр из кофейных зёрен</AC_CoffeeToLiquor.label>
+    <AC_CoffeeToLiquor.description>Превращает 125 единиц кофейных зёрен в 30 единиц кофейного ликёра.</AC_CoffeeToLiquor.description>
+    <AC_CoffeeToLiquor.labelOverride>Ферментация 125 единиц кофейных зёрен в 30 единиц кофейного ликёра</AC_CoffeeToLiquor.labelOverride>
+
+    <AC_TeaToKombucha.label>Ферментировать комбучу из чая</AC_TeaToKombucha.label>
+    <AC_TeaToKombucha.description>Превращает 125 единиц чая в 50 единиц комбучи.</AC_TeaToKombucha.description>
+    <AC_TeaToKombucha.labelOverride>Ферментация 125 единиц чая в 50 единиц комбучи</AC_TeaToKombucha.labelOverride>
+
+</LanguageData>

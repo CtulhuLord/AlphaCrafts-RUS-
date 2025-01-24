@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modMetaData>
+
+  <packageId>ctulhu.alphacrafts.rus</packageId>
+  
+  <name>Alpha Crafts RUS</name>
+  
+  <loadAfter>
+	<li>Ludeon.RimWorld</li>
+    <li>sarg.alphacrafts</li>
+  </loadAfter>
+	
+  <author>Ctulhu</author>
+  
+  <supportedVersions>
+    <li>1.5</li>
+  </supportedVersions>
+  
+  <modDependencies>
+		<li>
+			<packageId>sarg.alphacrafts</packageId>
+		</li>
+  </modDependencies>
+	
+  <description>Полный перевод Alpha Crafts для версии 1.5 на русский язык</description>
+  
+</modMetaData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <AC_ChocolateLiquor.label>Шоколадный ликёр</AC_ChocolateLiquor.label>
+    <AC_ChocolateLiquor.description>Насыщенная, густая жидкость, получаемая путем измельчения какао-бобов в однородную пасту и ее ферментации. Сохраняет как твердые частицы какао, так и какао-масло, создавая глубокий, интенсивный шоколадный вкус.\n\n&lt;color=#E5E54C>Торговые соображения:&lt;/color>\n\n&lt;color=#E5E54C>Ингредиенты:&lt;/color> Для изготовления 10 порций шоколадного ликёра требуется 50 единиц шоколада общей стоимостью 150, продаётся за 26.50, что даёт &lt;color=#33CC33>43.40%&lt;/color> прибыли за единицу.\n\n&lt;color=#E5E54C>Время ферментации:&lt;/color> 7 дней.\n\n&lt;color=#E5E54C>Торговля с караванами:&lt;/color> Вес составляет 0.3 кг, что даёт ценность за кг &lt;color=#33CC33>88.33&lt;/color>.\n\n&lt;color=#E5E54C>Прибыль в день:&lt;/color> В среднем прибыль в день составляет &lt;color=#33CC33>0.31&lt;/color> (для сравнения, у порошка психина 0.35).</AC_ChocolateLiquor.description>
+    <AC_ChocolateLiquor.ingestible.ingestCommandString>Выпить {0}</AC_ChocolateLiquor.ingestible.ingestCommandString>
+    <AC_ChocolateLiquor.ingestible.ingestReportString>Пьёт {0}.</AC_ChocolateLiquor.ingestible.ingestReportString>
+
+    <AC_Sake.label>Саке</AC_Sake.label>
+    <AC_Sake.description>Традиционное рисовое вино, изготавливаемое путем ферментации полированного риса, воды, дрожжей и плесневого грибка коджи. Саке имеет широкий спектр вкусов от сладкого до сухого и может употребляться как в теплом, так и в охлажденном виде. Чрезмерное употребление может привести к алкогольным провалам в памяти, а со временем и к зависимости. Но на самом деле «саке» по-японски означает... ДА, да, мы все знаем... Заткнись.\n\n&lt;color=#E5E54C>Торговые соображения:&lt;/color>\n\n&lt;color=#E5E54C>Ингредиенты:&lt;/color> Для изготовления 10 порций саке требуется 125 единиц риса общей стоимостью 137.50, продаётся за 25, что даёт &lt;color=#33CC33>45%&lt;/color> прибыли за единицу.\n\n&lt;color=#E5E54C>Время ферментации:&lt;/color> 18 дней.\n\n&lt;color=#E5E54C>Торговля с караванами:&lt;/color> Вес составляет 0.3 кг, что даёт ценность за кг &lt;color=#33CC33>83.33&lt;/color>.\n\n&lt;color=#E5E54C>Прибыль в день:&lt;/color> В среднем прибыль в день составляет &lt;color=#33CC33>0.48&lt;/color> (для сравнения, у порошка психина 0.35).</AC_Sake.description>
+    <AC_Sake.ingestible.ingestCommandString>Выпить {0}</AC_Sake.ingestible.ingestCommandString>
+    <AC_Sake.ingestible.ingestReportString>Пьёт {0}.</AC_Sake.ingestible.ingestReportString>
+
+</LanguageData>

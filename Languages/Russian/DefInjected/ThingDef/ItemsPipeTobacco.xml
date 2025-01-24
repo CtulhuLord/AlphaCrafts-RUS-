@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <AC_PipeTobacco.label>Табак для трубки</AC_PipeTobacco.label>
+    <AC_PipeTobacco.description>Смесь тщательно высушенных и ферментированных табачных листьев, созданная специально для приятного курения трубки. Эта смесь усиливает аромат и вкус, даря насыщенные и продолжительные ощущения тем, кто ценит классические, смеси ручной.\n\n&lt;color=#E5E54C>Торговые соображения:&lt;/color>\n\n&lt;color=#E5E54C>Ингредиенты:&lt;/color> Для изготовления 20 порций трубочного табака требуется 50 табачных листьев общей стоимостью 55, продаётся за 5, что даёт &lt;color=#33CC33>45%&lt;/color> прибыли за единицу.\n\n&lt;color=#E5E54C>Ценность за работу:&lt;/color> Рецепт требует 400 единиц работы, что даёт ценность за работу &lt;color=#33CC33>0.25&lt;/color>.\n\n&lt;color=#E5E54C>Торговля с караванами:&lt;/color> Вес составляет 0.01 кг, что даёт ценность за кг &lt;color=#33CC33>500&lt;/color>.\n\n&lt;color=#E5E54C>Прибыль в день:&lt;/color> В среднем прибыль в день составляет &lt;color=#33CC33>0.14&lt;/color> (для сравнения, у порошка психина 0.35).\n\nПри употреблении в качестве наркотика: эффект схож с сигаретой (на 0.1 больше удовольствия), но время курения значительно дольше.</AC_PipeTobacco.description>
+    <AC_PipeTobacco.ingestible.ingestCommandString>Курить {0}</AC_PipeTobacco.ingestible.ingestCommandString>
+    <AC_PipeTobacco.ingestible.ingestReportString>Курит {0}.</AC_PipeTobacco.ingestible.ingestReportString>
+    <AC_PipeTobacco.ingestible.ingestReportStringEat>Употребляет {0}.</AC_PipeTobacco.ingestible.ingestReportStringEat>
+
+</LanguageData>

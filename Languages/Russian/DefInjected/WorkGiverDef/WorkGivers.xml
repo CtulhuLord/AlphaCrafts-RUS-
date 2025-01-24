@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <AC_DoBillsArtisanTable.label>Изготовление изделий ручной работы</AC_DoBillsArtisanTable.label>
+    <AC_DoBillsArtisanTable.gerund>Изготавливает изделия ручной работы на</AC_DoBillsArtisanTable.gerund>
+    <AC_DoBillsArtisanTable.verb>Изготавливать изделия ручной работы</AC_DoBillsArtisanTable.verb>
+
+    <AC_DoBillsBottlingPlant.label>Розлив</AC_DoBillsBottlingPlant.label>
+    <AC_DoBillsBottlingPlant.gerund>Разливает на</AC_DoBillsBottlingPlant.gerund>
+    <AC_DoBillsBottlingPlant.verb>Разливать</AC_DoBillsBottlingPlant.verb>
+
+    <AC_DoBillsDairyProcessingStation.label>Переработка молока</AC_DoBillsDairyProcessingStation.label>
+    <AC_DoBillsDairyProcessingStation.gerund>Перерабатывает молоко на</AC_DoBillsDairyProcessingStation.gerund>
+    <AC_DoBillsDairyProcessingStation.verb>Перерабатывать молоко</AC_DoBillsDairyProcessingStation.verb>
+
+    <AC_DoBillsGrinder.label>Помол</AC_DoBillsGrinder.label>
+    <AC_DoBillsGrinder.gerund>Мелет на</AC_DoBillsGrinder.gerund>
+    <AC_DoBillsGrinder.verb>Молоть</AC_DoBillsGrinder.verb>
+
+    <AC_DoBillsOilPressWorkshop.label>Отжим масла</AC_DoBillsOilPressWorkshop.label>
+    <AC_DoBillsOilPressWorkshop.gerund>Отжимает масло на</AC_DoBillsOilPressWorkshop.gerund>
+    <AC_DoBillsOilPressWorkshop.verb>Отжимать масло</AC_DoBillsOilPressWorkshop.verb>
+
+</LanguageData>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <AC_ArtisanalCraftingYield.label>Выход продукции ручной работы</AC_ArtisanalCraftingYield.label>
+    <AC_ArtisanalCraftingYield.description>Количество произведённой персонажем продукции ручной работы умножается на это значение. Обратите внимание, что это не влияет на ферментированные продукты, так как они изготавливаются **в отдельных постройках/с помощью отдельных процессов**. </AC_ArtisanalCraftingYield.description>
+
+</LanguageData>

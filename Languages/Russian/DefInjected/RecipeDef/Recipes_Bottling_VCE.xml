@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <AC_ExtractMolasses.label>Приготовить мелассу</AC_ExtractMolasses.label>
+    <AC_ExtractMolasses.description>Этот рецепт позволяет получить мелассу из сахарного тростника в процессе его переработки.</AC_ExtractMolasses.description>
+    <AC_ExtractMolasses.jobString>Готовит мелассу.</AC_ExtractMolasses.jobString>
+
+    <AC_MakeSaltedCaramel.label>Приготовить солёную карамель</AC_MakeSaltedCaramel.label>
+    <AC_MakeSaltedCaramel.description>Этот рецепт позволяет растопить сахар до состояния густой карамели, смешанной со сливочным маслом и щепоткой соли для баланса вкуса.</AC_MakeSaltedCaramel.description>
+    <AC_MakeSaltedCaramel.jobString>Готовит солёную карамель.</AC_MakeSaltedCaramel.jobString>
+
+    <AC_PrepareChutney.label>Приготовить чатни</AC_PrepareChutney.label>
+    <AC_PrepareChutney.description>Процесс приготовления ароматной приправы, в которой фрукты или овощи смешиваются со специями, сахаром и уксусом для создания терпкого, сладкого и пикантного вкуса.</AC_PrepareChutney.description>
+    <AC_PrepareChutney.ingredients.0.filter.customSummary>Джемы</AC_PrepareChutney.ingredients.0.filter.customSummary>
+    <AC_PrepareChutney.ingredients.1.filter.customSummary>Специи</AC_PrepareChutney.ingredients.1.filter.customSummary>
+    <AC_PrepareChutney.ingredients.2.filter.customSummary>Уксус</AC_PrepareChutney.ingredients.2.filter.customSummary>
+    <AC_PrepareChutney.jobString>Готовит чатни.</AC_PrepareChutney.jobString>
+
+    <AC_PreserveFruitAsJam.label>Приготовить джем</AC_PreserveFruitAsJam.label>
+    <AC_PreserveFruitAsJam.description>Процесс превращения свежих фруктов в сладкое, намазываемое лакомство путем их варки с сахаром. Этот метод сохраняет вкус фруктов и продлевает срок их хранения.</AC_PreserveFruitAsJam.description>
+    <AC_PreserveFruitAsJam.ingredients.0.filter.customSummary>Фрукты</AC_PreserveFruitAsJam.ingredients.0.filter.customSummary>
+    <AC_PreserveFruitAsJam.ingredients.1.filter.customSummary>Сахар</AC_PreserveFruitAsJam.ingredients.1.filter.customSummary>
+    <AC_PreserveFruitAsJam.jobString>Готовит джем.</AC_PreserveFruitAsJam.jobString>
+
+</LanguageData>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <AC_FishToFishSauce.label>Ферментировать рыбу в рыбный соус</AC_FishToFishSauce.label>
+    <AC_FishToFishSauce.description>Превращает 50 единиц рыбы в 25 единиц рыбного соуса.</AC_FishToFishSauce.description>
+    <AC_FishToFishSauce.labelOverride>Ферментация 50 единиц рыбы в 25 единиц рыбного соуса</AC_FishToFishSauce.labelOverride>
+
+</LanguageData>

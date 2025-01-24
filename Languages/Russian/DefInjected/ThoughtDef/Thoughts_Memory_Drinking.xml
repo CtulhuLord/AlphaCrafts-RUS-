@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <AC_BeetKvassAsIngredient.stages.drank_beet_kvassbased_cocktail.label>Выпил коктейль на основе свекольного кваса</AC_BeetKvassAsIngredient.stages.drank_beet_kvassbased_cocktail.label>
+    <AC_BeetKvassAsIngredient.stages.drank_beet_kvassbased_cocktail.description>Вкусно.</AC_BeetKvassAsIngredient.stages.drank_beet_kvassbased_cocktail.description>
+
+    <AC_ChocolateLiquorAsIngredient.stages.drank_chocolate_liquorbased_cocktail.label>Выпил коктейль на основе шоколадного ликёра</AC_ChocolateLiquorAsIngredient.stages.drank_chocolate_liquorbased_cocktail.label>
+    <AC_ChocolateLiquorAsIngredient.stages.drank_chocolate_liquorbased_cocktail.description>Вкусно.</AC_ChocolateLiquorAsIngredient.stages.drank_chocolate_liquorbased_cocktail.description>
+
+    <AC_CoffeeLiquorAsIngredient.stages.drank_coffee_liquorbased_cocktail.label>Выпил коктейль на основе кофейного ликёра</AC_CoffeeLiquorAsIngredient.stages.drank_coffee_liquorbased_cocktail.label>
+    <AC_CoffeeLiquorAsIngredient.stages.drank_coffee_liquorbased_cocktail.description>Вкусно.</AC_CoffeeLiquorAsIngredient.stages.drank_coffee_liquorbased_cocktail.description>
+
+    <AC_DrankArtisanalKombucha.stages.A_Healthy_sip.label>На здоровье!</AC_DrankArtisanalKombucha.stages.A_Healthy_sip.label>
+    <AC_DrankArtisanalKombucha.stages.A_Healthy_sip.description>Чашка комбучи в день — и доктор не понадобится.</AC_DrankArtisanalKombucha.stages.A_Healthy_sip.description>
+
+    <AC_DrankChichaMorada.stages.drank_chicha_morada.label>Выпил чичу морада</AC_DrankChichaMorada.stages.drank_chicha_morada.label>
+    <AC_DrankChichaMorada.stages.drank_chicha_morada.description>Глоток чего-то древнего и согревающего.</AC_DrankChichaMorada.stages.drank_chicha_morada.description>
+
+    <AC_SakeAsIngredient.stages.drank_sakebased_cocktail.label>Выпил коктейль на основе саке</AC_SakeAsIngredient.stages.drank_sakebased_cocktail.label>
+    <AC_SakeAsIngredient.stages.drank_sakebased_cocktail.description>Вкусно.</AC_SakeAsIngredient.stages.drank_sakebased_cocktail.description>
+
+</LanguageData>

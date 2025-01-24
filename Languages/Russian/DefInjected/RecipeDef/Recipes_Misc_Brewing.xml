@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <AC_BrewFlavouredKombucha.label>Приготовить ароматизированную комбучу</AC_BrewFlavouredKombucha.label>
+    <AC_BrewFlavouredKombucha.description>Смешать комбучу с отборными фруктами, цветами, травами или специями для создания освежающего напитка с уникальным вкусом и мягким тонизирующим эффектом. Количество получаемой комбучи зависит от количества используемого сырья.</AC_BrewFlavouredKombucha.description>
+    <AC_BrewFlavouredKombucha.ingredients.0.filter.customSummary>Ароматические добавки (фрукты, цветы, травы, специи)</AC_BrewFlavouredKombucha.ingredients.0.filter.customSummary>
+    <AC_BrewFlavouredKombucha.ingredients.1.filter.customSummary>Комбуча</AC_BrewFlavouredKombucha.ingredients.1.filter.customSummary>
+    <AC_BrewFlavouredKombucha.jobString>Готовит ароматизированную комбучу.</AC_BrewFlavouredKombucha.jobString>
+
+</LanguageData>

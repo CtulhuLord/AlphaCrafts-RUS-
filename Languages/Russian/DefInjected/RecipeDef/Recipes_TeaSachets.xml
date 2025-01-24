@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <AC_PrepareSpecialtyTeaSachets.label>Изготовить особые чайные пакетики</AC_PrepareSpecialtyTeaSachets.label>
+    <AC_PrepareSpecialtyTeaSachets.description>Изготовить успокаивающие чайные пакетики из смеси трав и специй, обладающие уникальным вкусом и успокаивающим эффектом. Количество получаемых пакетиков зависит от используемого сырья.</AC_PrepareSpecialtyTeaSachets.description>
+    <AC_PrepareSpecialtyTeaSachets.ingredients.0.filter.customSummary>Чайные листья</AC_PrepareSpecialtyTeaSachets.ingredients.0.filter.customSummary>
+    <AC_PrepareSpecialtyTeaSachets.ingredients.1.filter.customSummary>Фрукты/Цветы</AC_PrepareSpecialtyTeaSachets.ingredients.1.filter.customSummary>
+    <AC_PrepareSpecialtyTeaSachets.jobString>Изготавливает особые чайные пакетики.</AC_PrepareSpecialtyTeaSachets.jobString>
+
+</LanguageData>

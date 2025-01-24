@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <AC_FragrantbloomRose.label>Душистая роза</AC_FragrantbloomRose.label>
+    <AC_FragrantbloomRose.description>Уникальный сорт розы, культивируемый за свой интенсивный, чарующий аромат, идеально подходящий для изготовления духов и других ароматических продуктов.</AC_FragrantbloomRose.description>
+
+    <AC_Hyacinth.label>Гиацинт</AC_Hyacinth.label>
+    <AC_Hyacinth.description>Яркий, сладко пахнущий цветок со свежим, зелёным ароматом, который придаёт глубину как садам, так и парфюмерии.</AC_Hyacinth.description>
+
+    <AC_Jasmine.label>Жасмин</AC_Jasmine.label>
+    <AC_Jasmine.description>Яркий, сладко пахнущий цветок со свежим, зелёным ароматом, который придаёт глубину как садам, так и парфюмерии.</AC_Jasmine.description>
+
+    <AC_Lavender.label>Лаванда</AC_Lavender.label>
+    <AC_Lavender.description>Ароматное растение с фиолетовыми цветками, известное своим успокаивающим ароматом и декоративной красотой.</AC_Lavender.description>
+
+    <AC_Lily.label>Лилия</AC_Lily.label>
+    <AC_Lily.description>Эффектный цветок с насыщенным, сладким, а иногда и пряным ароматом, наполняющий любое пространство элегантностью.</AC_Lily.description>
+
+    <AC_Orchid.label>Орхидея</AC_Orchid.label>
+    <AC_Orchid.description>Изящный и экзотический цветок с тонким, сладким ароматом, который варьируется в зависимости от вида и часто используется в изысканной парфюмерии.</AC_Orchid.description>
+
+    <AC_Plumeria.label>Плюмерия</AC_Plumeria.label>
+    <AC_Plumeria.description>Тропический цветок с фруктовым, сладким и кремовым ароматом, идеально подходящий для создания пышной, тёплой атмосферы.</AC_Plumeria.description>
+
+    <AC_Tulip.label>Тюльпан</AC_Tulip.label>
+    <AC_Tulip.description>Красивый, но слабо пахнущий цветок, известный скорее своими яркими цветами, чем ароматом.</AC_Tulip.description>
+
+    <AC_Vanilla.label>Ваниль</AC_Vanilla.label>
+    <AC_Vanilla.description>Нежные, кремово-белые цветы со слабым, сладким ароматом. Хотя сами цветы прекрасны, именно производимые ими стручки ценятся за свой тёплый, насыщенный аромат. Мы добавили немного ванили в ваше Vanilla Expanded, чтобы вы могли расширять ваниль, пока вы ванилите своё расширение.</AC_Vanilla.description>
+
+    <AC_Violet.label>Фиалка</AC_Violet.label>
+    <AC_Violet.description>Нежный, пудровый и сладко пахнущий цветок, часто используемый для придания парфюмерии лёгкой цветочной ноты.</AC_Violet.description>
+
+    <AC_YlangYlang.label>Иланг-иланг</AC_YlangYlang.label>
+    <AC_YlangYlang.description>Очень ароматный, сладкий и насыщенный цветок, высоко ценимый за использование в экзотических и чувственных парфюмах.</AC_YlangYlang.description>
+
+</LanguageData>

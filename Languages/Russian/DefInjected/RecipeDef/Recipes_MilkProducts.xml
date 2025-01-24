@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <AC_ChurnButter.label>Взбить масло</AC_ChurnButter.label>
+    <AC_ChurnButter.description>Превратить сливки или другие продукты в насыщенное, ароматное масло. Количество получаемого масла зависит от используемого сырья.</AC_ChurnButter.description>
+    <AC_ChurnButter.jobString>Взбивает масло.</AC_ChurnButter.jobString>
+
+    <AC_CookYoghurt.label>Приготовить йогурт</AC_CookYoghurt.label>
+    <AC_CookYoghurt.description>Приготовить йогурт из молока и фруктов.</AC_CookYoghurt.description>
+    <AC_CookYoghurt.ingredients.0.filter.customSummary>Фрукты</AC_CookYoghurt.ingredients.0.filter.customSummary>
+    <AC_CookYoghurt.ingredients.1.filter.customSummary>Молоко</AC_CookYoghurt.ingredients.1.filter.customSummary>
+    <AC_CookYoghurt.jobString>Готовит йогурт.</AC_CookYoghurt.jobString>
+
+    <AC_CookYoghurt_Bulk.label>Приготовить йогурт (x4)</AC_CookYoghurt_Bulk.label>
+    <AC_CookYoghurt_Bulk.description>Приготовить четыре порции йогурта из молока и фруктов.</AC_CookYoghurt_Bulk.description>
+    <AC_CookYoghurt_Bulk.ingredients.0.filter.customSummary>Фрукты</AC_CookYoghurt_Bulk.ingredients.0.filter.customSummary>
+    <AC_CookYoghurt_Bulk.ingredients.1.filter.customSummary>Молоко</AC_CookYoghurt_Bulk.ingredients.1.filter.customSummary>
+    <AC_CookYoghurt_Bulk.jobString>Готовит йогурт.</AC_CookYoghurt_Bulk.jobString>
+
+    <AC_MakeRicotta.label>Приготовить рикотту</AC_MakeRicotta.label>
+    <AC_MakeRicotta.description>Превратить молоко в рикотту.</AC_MakeRicotta.description>
+    <AC_MakeRicotta.jobString>Делает рикотту.</AC_MakeRicotta.jobString>
+
+    <AC_MakeSourCream.label>Приготовить сметану</AC_MakeSourCream.label>
+    <AC_MakeSourCream.description>Превратить молоко и уксус в сметану.</AC_MakeSourCream.description>
+    <AC_MakeSourCream.jobString>Делает сметану.</AC_MakeSourCream.jobString>
+
+</LanguageData>

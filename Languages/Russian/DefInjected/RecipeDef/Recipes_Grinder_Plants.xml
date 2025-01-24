@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <AC_ZestCitrics.label>Снять цедру с цитрусовых</AC_ZestCitrics.label>
+    <AC_ZestCitrics.description>Аккуратно снять внешний слой кожуры цитрусовых, чтобы получить ароматную цедру. Количество получаемой цедры зависит от используемых фруктов.</AC_ZestCitrics.description>
+    <AC_ZestCitrics.jobString>Снимает цедру с цитрусовых.</AC_ZestCitrics.jobString>
+
+</LanguageData>

@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <AC_ArtisanalFermentation.label>Производственное брожение</AC_ArtisanalFermentation.label>
+    <AC_ArtisanalFermentation.description>Открывает доступ к дополнительным рецептам для бродильной ёмкости, позволяя производить мисо, кефир, ласси, саке и многое другое.</AC_ArtisanalFermentation.description>
+    <AC_ArtisanalFermentation.generalRules.rulesStrings>
+        <li>subject->прелести брожения</li>
+        <li>subject_story->открыл потенциал ферментации различных ингредиентов в уникальные, богатые культурой продукты</li>
+        <li>subject_story->освоил методы ферментации для производства мисо, кефира, ласси, саке и многого другого</li>
+        <li>subject_story->внедрил многоцелевые методы ферментации для создания разнообразных кулинарных изделий</li>
+        <li>subject_gerund->использование ферментации для создания мира вкусов и текстур ручной работы</li>
+    </AC_ArtisanalFermentation.generalRules.rulesStrings>
+
+    <AC_ArtisanalGrinding.label>Производственный помол</AC_ArtisanalGrinding.label>
+    <AC_ArtisanalGrinding.description>Открывает рецепты для измельчения продуктов в мелкую муку, хрустящие чипсы, яркую цедру и нежное пюре, расширяя производственные возможности колонии.</AC_ArtisanalGrinding.description>
+    <AC_ArtisanalGrinding.generalRules.rulesStrings>
+        <li>subject->тончайшая пудра</li>
+        <li>subject_story->освоил искусство тонкого измельчения продуктов в муку, чипсы, цедру и пюре</li>
+        <li>subject_story->внедрил передовые методы точной обработки фруктов, овощей и зерна</li>
+        <li>subject_story->совершил революцию в кулинарном производстве, превращая сырые ингредиенты в изысканные компоненты</li>
+        <li>subject_gerund->измельчение продуктов в некоторые формы для приготовления пищи и изготовления изделий</li>
+    </AC_ArtisanalGrinding.generalRules.rulesStrings>
+
+    <AC_ArtisanDairyProcessing.label>Производственная обработка молока</AC_ArtisanDairyProcessing.label>
+    <AC_ArtisanDairyProcessing.description>Открывает методы преобразования сырого молока в различные молочные продукты, такие как йогурт, сливки и сгущённое молоко.</AC_ArtisanDairyProcessing.description>
+    <AC_ArtisanDairyProcessing.generalRules.rulesStrings>
+        <li>subject->сыр и другие диковинки</li>
+        <li>subject_story->развил искусство превращения молока в насыщенные, ароматные молочные продукты</li>
+        <li>subject_story->освоил процесс создания йогурта, сливок и сыров ручной работы</li>
+        <li>subject_story->внедрил новые методы превращения обычного молока в особые продукты</li>
+        <li>subject_gerund->превращение простого молока в разнообразные молочные лакомства ручной работы</li>
+    </AC_ArtisanDairyProcessing.generalRules.rulesStrings>
+
+    <AC_BottlingTechniques.label>Технологии розлива</AC_BottlingTechniques.label>
+    <AC_BottlingTechniques.description>Открывает передовые методы розлива жидкостей, улучшая сохранность, хранение и торговлю джемами, майонезом и другими продуктами ручной работы.</AC_BottlingTechniques.description>
+    <AC_BottlingTechniques.generalRules.rulesStrings>
+        <li>subject->запечатанная свежесть</li>
+        <li>subject_story->изучил методы сохранения жидкостей с помощью эффективных методов розлива</li>
+        <li>subject_story->внедрил герметичные бутылки, продлевая срок годности джемов, майонеза и других жидкостей</li>
+        <li>subject_story->совершил революцию в торговле, сделав бутилированные товары более транспортабельными и ценными</li>
+        <li>subject_gerund->розлив жидкостей для сохранения их свежести и повышения торгового потенциала</li>
+    </AC_BottlingTechniques.generalRules.rulesStrings>
+
+    <AC_ComplexArtisanalCrafting.label>Сложное ручное производство</AC_ComplexArtisanalCrafting.label>
+    <AC_ComplexArtisanalCrafting.description>Открывает ряд более сложных производственных процессов. Этот исследовательский проект откроет все рецепты, для изготовления которых требуется другой продукт ручной работы, например, сметана, для которой нужно молоко и уксус.</AC_ComplexArtisanalCrafting.description>
+    <AC_ComplexArtisanalCrafting.generalRules.rulesStrings>
+        <li>subject->многослойные творения</li>
+        <li>subject_story->освоил сложные методы смешивания продуктов ручной работы для создания изысканных вкусов и текстур</li>
+        <li>subject_story->разработал методы, использующие несколько ингредиентов, что приводит к созданию уникальных, многоступенчатых изделий</li>
+        <li>subject_story->внедрил передовые процессы, основанные на базовых рецептах, открывая доступ к изысканным, специализированным товарам</li>
+        <li>subject_gerund->создание изделий со сложным сочетанием ресурсов для производства исключительных предметов ручной работы</li>
+    </AC_ComplexArtisanalCrafting.generalRules.rulesStrings>
+
+    <AC_MiscellaneousArtisanalCrafting.label>Разное ручное производство</AC_MiscellaneousArtisanalCrafting.label>
+    <AC_MiscellaneousArtisanalCrafting.description>Открывает ряд специализированных производственных процессов, позволяя колонистам создавать уникальные, нишевые продукты с использованием традиционных методов и инструментов, которые дополняют производственные возможности колонии.</AC_MiscellaneousArtisanalCrafting.description>
+    <AC_MiscellaneousArtisanalCrafting.generalRules.rulesStrings>
+        <li>subject->забытые ремёсла</li>
+        <li>subject_story->возродил древние методы средневековых ремесленников для создания уникальных и ценных товаров</li>
+        <li>subject_story->усовершенствовал нишевые техники, создавая специализированные продукты из повседневных материалов</li>
+        <li>subject_story->внедрил традиционные практики гильдий, позволяя процветать множеству упущенных процессов</li>
+        <li>subject_gerund->использование средневекового мастерства для превращения простых ресурсов в сокровища ручного производства</li>
+    </AC_MiscellaneousArtisanalCrafting.generalRules.rulesStrings>
+
+    <AC_OilExtraction.label>Добыча и обработка масел</AC_OilExtraction.label>
+    <AC_OilExtraction.description>Открывает методы извлечения масел из различных растений и семян, позволяя производить ценные масла ручного производства.</AC_OilExtraction.description>
+    <AC_OilExtraction.generalRules.rulesStrings>
+        <li>subject->жидкое золото</li>
+        <li>subject_story->открыл древнее искусство извлечения масел из семян, орехов и фруктов</li>
+        <li>subject_story->усовершенствовал методы прессования и рафинирования масел для кулинарного и ремесленного использования</li>
+        <li>subject_story->внедрил масляный пресс, превращая продукты в ценные масла для приготовления пищи и промышленности</li>
+        <li>subject_gerund->использование природных масел для улучшения качества пищи, топлива и продуктов ручной работы</li>
+    </AC_OilExtraction.generalRules.rulesStrings>
+
+    <AC_VinegarBrewing.label>Производство уксуса</AC_VinegarBrewing.label>
+    <AC_VinegarBrewing.description>Открывает знания о ферментации различных продуктов в уксус.</AC_VinegarBrewing.description>
+    <AC_VinegarBrewing.generalRules.rulesStrings>
+        <li>subject->сладкая горечь</li>
+        <li>subject_story->усовершенствовал древнее искусство ферментации фруктов и зерна в терпкий, универсальный уксус</li>
+        <li>subject_story->внедрил методы контролируемой ферментации для создания различных сортов уксуса</li>
+        <li>subject_story->расширил использование уксуса в консервировании, приготовлении пищи и продуктов ручной работы</li>
+        <li>subject_gerund->производство ароматного уксуса для улучшения вкуса блюд и консервирования продуктов</li>
+    </AC_VinegarBrewing.generalRules.rulesStrings>
+
+</LanguageData>

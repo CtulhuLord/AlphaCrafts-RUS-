@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <AC_ApplesToVinegar.label>Ферментировать яблоки в уксус</AC_ApplesToVinegar.label>
+    <AC_ApplesToVinegar.description>Превращает 50 яблок в 25 единиц уксуса.</AC_ApplesToVinegar.description>
+    <AC_ApplesToVinegar.labelOverride>Ферментация 50 яблок в 25 единиц уксуса</AC_ApplesToVinegar.labelOverride>
+
+    <AC_BeetsIntoKvass.label>Ферментировать свёклу в квас</AC_BeetsIntoKvass.label>
+    <AC_BeetsIntoKvass.description>Превращает 150 свёклы в 15 единиц кваса.</AC_BeetsIntoKvass.description>
+    <AC_BeetsIntoKvass.labelOverride>Ферментация 150 свёклы в 15 единиц кваса</AC_BeetsIntoKvass.labelOverride>
+
+    <AC_CabbageIntoSauerkraut.label>Ферментировать капусту в квашеную капусту</AC_CabbageIntoSauerkraut.label>
+    <AC_CabbageIntoSauerkraut.description>Превращает 50 единиц капусты в 10 единиц квашеной капусты.</AC_CabbageIntoSauerkraut.description>
+    <AC_CabbageIntoSauerkraut.labelOverride>Ферментация 50 единиц капусты в 10 единиц квашеной капусты</AC_CabbageIntoSauerkraut.labelOverride>
+
+    <AC_TomatoesToVinegar.label>Ферментировать помидоры в уксус</AC_TomatoesToVinegar.label>
+    <AC_TomatoesToVinegar.description>Превращает 50 помидоров в 25 единиц уксуса.</AC_TomatoesToVinegar.description>
+    <AC_TomatoesToVinegar.labelOverride>Ферментация 50 помидоров в 25 единиц уксуса</AC_TomatoesToVinegar.labelOverride>
+
+</LanguageData>

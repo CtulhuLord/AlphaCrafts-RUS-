@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <AC_CraftAloeVeraSalve.label>Изготовить мазь алоэ вера</AC_CraftAloeVeraSalve.label>
+    <AC_CraftAloeVeraSalve.description>Использовать целебные свойства алоэ вера, превратив его гель в успокаивающую мазь.</AC_CraftAloeVeraSalve.description>
+    <AC_CraftAloeVeraSalve.jobString>Изготавливает мазь алоэ вера.</AC_CraftAloeVeraSalve.jobString>
+
+    <AC_ExtractEssence.label>Получить эссенцию</AC_ExtractEssence.label>
+    <AC_ExtractEssence.description>Извлечь концентрированную эссенцию из ключевых ингредиентов, сохранив их самые яркие вкусы или ароматы. Количество получаемой эссенции зависит от используемого сырья.</AC_ExtractEssence.description>
+    <AC_ExtractEssence.jobString>Извлекает эссенцию.</AC_ExtractEssence.jobString>
+
+</LanguageData>

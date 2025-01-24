@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <AC_BeetKvassAsIngredient.label>Выпил коктейль с квасом из свёклы</AC_BeetKvassAsIngredient.label>
+    <AC_BeetKvassAsIngredient.description>Этот поселенец выпил коктейль, одним из ингредиентов которого был квас из свёклы. Благодаря своим увлажняющим и восстанавливающим свойствам, напиток дарит ощущение прохлады и понижает минимальную комфортную температуру на 3°C. Также, благодаря пробиотическим свойствам, немного повышает иммунитет (на 5%).</AC_BeetKvassAsIngredient.description>
+
+    <AC_BeetKvassHigh.label>Опьянение от кваса из свёклы</AC_BeetKvassHigh.label>
+    <AC_BeetKvassHigh.description>Выпил квас из свёклы. Благодаря своим увлажняющим и восстанавливающим свойствам, напиток дарит ощущение прохлады и понижает минимальную комфортную температуру на 3°C. Также, благодаря пробиотическим свойствам, немного повышает иммунитет (на 5%).</AC_BeetKvassHigh.description>
+    <AC_BeetKvassHigh.labelNoun>опьянение от кваса из свёклы</AC_BeetKvassHigh.labelNoun>
+
+    <AC_ChichaMoradaAsIngredient.label>Выпил коктейль с чичей морада</AC_ChichaMoradaAsIngredient.label>
+    <AC_ChichaMoradaAsIngredient.description>Этот поселенец выпил коктейль, одним из ингредиентов которого была чича морада. На 24 часа повышает ловкость на 5%.</AC_ChichaMoradaAsIngredient.description>
+
+    <AC_ChocolateLiquorAsIngredient.label>Выпил коктейль с шоколадным ликёром</AC_ChocolateLiquorAsIngredient.label>
+    <AC_ChocolateLiquorAsIngredient.description>Этот поселенец выпил коктейль, одним из ингредиентов которого был шоколадный ликёр. Благодаря таким природным соединениям, как теобромин, на 5 часов незначительно снижает порог болевого шока на 10%.</AC_ChocolateLiquorAsIngredient.description>
+
+    <AC_ChocolateLiquorHigh.label>Опьянение от шоколадного ликёра</AC_ChocolateLiquorHigh.label>
+    <AC_ChocolateLiquorHigh.description>Выпил шоколадный ликёр. Благодаря таким природным соединениям, как теобромин, на короткое время незначительно снижает порог болевого шока на 10%.</AC_ChocolateLiquorHigh.description>
+    <AC_ChocolateLiquorHigh.labelNoun>опьянение от шоколадного ликёра</AC_ChocolateLiquorHigh.labelNoun>
+
+    <AC_CoffeeLiquorAsIngredient.label>Выпил коктейль с кофейным ликёром</AC_CoffeeLiquorAsIngredient.label>
+    <AC_CoffeeLiquorAsIngredient.description>Этот поселенец выпил коктейль, одним из ингредиентов которого был кофейный ликёр. На 5 часов значительно замедляет снижение показателя отдыха на 25%.</AC_CoffeeLiquorAsIngredient.description>
+
+    <AC_CoffeeLiquorHigh.label>Опьянение от кофейного ликёра</AC_CoffeeLiquorHigh.label>
+    <AC_CoffeeLiquorHigh.description>Выпил кофейный ликёр. Содержащийся в кофе кофеин после метаболизма усиливает стимуляцию нервной системы, подавляя сонливость и проясняя ум. На короткое время повышает скорость обучения на 8%, замедляет снижение показателя отдыха на 8% и увеличивает общую скорость работы на 8%.</AC_CoffeeLiquorHigh.description>
+    <AC_CoffeeLiquorHigh.labelNoun>опьянение от кофейного ликёра</AC_CoffeeLiquorHigh.labelNoun>
+
+    <AC_DrankArtisanalKombucha.label>Выпил комбучу</AC_DrankArtisanalKombucha.label>
+    <AC_DrankArtisanalKombucha.description>Содержащиеся в чае дубильные вещества после метаболизма усиливают стимуляцию нервной системы, подавляя сонливость и укрепляя иммунную систему. На 5 часов повышает скорость набора иммунитета на 15% и замедляет снижение показателя отдыха на 10%. Комбуча помогает облегчить течение гриппа, снижая тяжесть симптомов на 5%.</AC_DrankArtisanalKombucha.description>
+
+    <AC_DrankChichaMorada.label>Выпил чичу морада</AC_DrankChichaMorada.label>
+    <AC_DrankChichaMorada.description>Традиционный напиток из фиолетовой кукурузы со специями (корица и гвоздика) и фруктами (например, ананас). На 5 часов повышает ловкость на 10%.</AC_DrankChichaMorada.description>
+
+    <AC_SakeAsIngredient.label>Выпил коктейль с саке</AC_SakeAsIngredient.label>
+    <AC_SakeAsIngredient.description>Этот поселенец выпил коктейль, одним из ингредиентов которого было саке. На 5 часов повышает ловкость на 5%.</AC_SakeAsIngredient.description>
+
+    <AC_SakeHigh.label>Опьянение от саке</AC_SakeHigh.label>
+    <AC_SakeHigh.description>Выпил саке. На короткое время незначительно усиливает расслабление и, следовательно, снижает порог нервного срыва на 5%.</AC_SakeHigh.description>
+    <AC_SakeHigh.labelNoun>опьянение от саке</AC_SakeHigh.labelNoun>
+
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <AC_BeetKvass.label>Свёкольный квас</AC_BeetKvass.label>
+    <AC_BeetKvass.description>Ферментированный напиток из свёклы, ценится за землистый, терпкий вкус и пробиотические свойства. Чрезмерное употребление может привести к алкогольным провалам в памяти, а со временем и к зависимости.\n\n&lt;color=#E5E54C>Торговые соображения:&lt;/color>\n\n&lt;color=#E5E54C>Ингредиенты:&lt;/color> Для изготовления 15 порций кваса требуется 150 единиц свёклы общей стоимостью 165, продаётся за 20.50, что даёт &lt;color=#33CC33>46.34%&lt;/color> прибыли за единицу.\n\n&lt;color=#E5E54C>Время ферментации:&lt;/color> 12 дней.\n\n&lt;color=#E5E54C>Торговля с караванами:&lt;/color> Вес составляет 0.3 кг, что даёт ценность за кг &lt;color=#33CC33>68.33&lt;/color>.\n\n&lt;color=#E5E54C>Прибыль в день:&lt;/color> В среднем прибыль в день составляет &lt;color=#33CC33>0.42&lt;/color> (для сравнения, у порошка психина 0.35).</AC_BeetKvass.description>
+    <AC_BeetKvass.ingestible.ingestCommandString>Выпить {0}</AC_BeetKvass.ingestible.ingestCommandString>
+    <AC_BeetKvass.ingestible.ingestReportString>Пьёт {0}.</AC_BeetKvass.ingestible.ingestReportString>
+
+</LanguageData>

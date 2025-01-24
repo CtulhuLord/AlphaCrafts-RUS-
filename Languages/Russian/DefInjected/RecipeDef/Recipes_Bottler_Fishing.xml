@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <AC_PrepareRoe.label>Заготовить икру</AC_PrepareRoe.label>
+    <AC_PrepareRoe.description>Этот процесс позволяет аккуратно сохранить свежую рыбью икру, поддерживая её нежную текстуру и насыщенный, солоноватый вкус. Количество получаемой икры зависит от используемой рыбы.</AC_PrepareRoe.description>
+    <AC_PrepareRoe.ingredients.0.filter.customSummary>Рыба</AC_PrepareRoe.ingredients.0.filter.customSummary>
+    <AC_PrepareRoe.jobString>Заготавливает икру.</AC_PrepareRoe.jobString>
+
+</LanguageData>

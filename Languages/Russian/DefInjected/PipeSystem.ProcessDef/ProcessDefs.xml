@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <AC_ChocolateToLiquor.label>Ферментировать шоколад в ликёр</AC_ChocolateToLiquor.label>
+    <AC_ChocolateToLiquor.description>Превращает 50 единиц шоколада в 10 единиц шоколадного ликёра.</AC_ChocolateToLiquor.description>
+    <AC_ChocolateToLiquor.labelOverride>Ферментация 50 единиц шоколада в 10 единиц шоколадного ликёра</AC_ChocolateToLiquor.labelOverride>
+
+    <AC_MilkToKefir.label>Ферментировать молоко в кефир</AC_MilkToKefir.label>
+    <AC_MilkToKefir.description>Превращает 50 единиц молока в 10 единиц кефира.</AC_MilkToKefir.description>
+    <AC_MilkToKefir.labelOverride>Ферментация 50 единиц молока в 10 единиц кефира</AC_MilkToKefir.labelOverride>
+
+    <AC_RiceToSake.label>Ферментировать рис в саке</AC_RiceToSake.label>
+    <AC_RiceToSake.description>Превращает 125 единиц риса в 10 единиц саке.</AC_RiceToSake.description>
+    <AC_RiceToSake.labelOverride>Ферментация 125 единиц риса в 10 единиц саке</AC_RiceToSake.labelOverride>
+
+    <AC_RiceToVinegar.label>Ферментировать рис в уксус</AC_RiceToVinegar.label>
+    <AC_RiceToVinegar.description>Превращает 50 единиц риса в 25 единиц уксуса.</AC_RiceToVinegar.description>
+    <AC_RiceToVinegar.labelOverride>Ферментация 50 единиц риса в 25 единиц уксуса</AC_RiceToVinegar.labelOverride>
+
+    <AC_YogHurtToLassi.label>Ферментировать йогурт в ласси</AC_YogHurtToLassi.label>
+    <AC_YogHurtToLassi.description>Превращает 20 единиц йогурта в 10 единиц ласси.</AC_YogHurtToLassi.description>
+    <AC_YogHurtToLassi.labelOverride>Ферментация 20 единиц йогурта в 10 единиц ласси</AC_YogHurtToLassi.labelOverride>
+
+</LanguageData>

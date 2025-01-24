@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <AC_Perfume.label>Духи</AC_Perfume.label>
+    <AC_Perfume.description>Роскошная смесь ароматических соединений и эфирных масел, полученных из цветов и растений, используемая для создания восхитительных и чарующих ароматов для личного пользования и создания атмосферы. Каждые духи созданы, чтобы вызывать эмоции и воспоминания, улучшая повседневный опыт.\n\n&lt;color=#E5E54C>Торговые соображения:&lt;/color>\n\n&lt;color=#E5E54C>Ингредиенты:&lt;/color> Для изготовления 10 флаконов духов требуется 25 ингредиентов средней стоимостью 1.2 (30), продаётся за 6, что даёт &lt;color=#33CC33>50%&lt;/color> прибыли за единицу.\n\n&lt;color=#E5E54C>Ценность за работу:&lt;/color> Рецепт требует 2500 единиц работы, что даёт ценность за работу &lt;color=#33CC33>0.02&lt;/color>.\n\n&lt;color=#E5E54C>Торговля с караванами:&lt;/color> Вес составляет 0.05 кг, что даёт ценность за кг &lt;color=#33CC33>120&lt;/color>.\n\n&lt;color=#E5E54C>Прибыль в день:&lt;/color> В среднем прибыль в день составляет &lt;color=#33CC33>0.35&lt;/color> (столько же, сколько и у порошка психина).</AC_Perfume.description>
+    <AC_Perfume.comps.CompUsable.useLabel>Использовать {0_label}</AC_Perfume.comps.CompUsable.useLabel>
+    <AC_Perfume.ingestible.ingestCommandString>Использовать {0}</AC_Perfume.ingestible.ingestCommandString>
+    <AC_Perfume.ingestible.ingestReportString>Использует {0}.</AC_Perfume.ingestible.ingestReportString>
+
+</LanguageData>

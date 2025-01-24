@@ -1,0 +1,9 @@
+﻿<LanguageData>
+    <AC_ClarifyButterIntoGhee.label>Приготовить ореховое топлёное масло</AC_ClarifyButterIntoGhee.label>
+    <AC_ClarifyButterIntoGhee.description>Нагреть сливочное масло на медленном огне для удаления воды и молочных твёрдых веществ. Длительное томление придает маслу характерный золотистый цвет, насыщенный ореховый аромат и вкус, без добавления орехов.</AC_ClarifyButterIntoGhee.description>
+    <AC_ClarifyButterIntoGhee.jobString>Готовит ореховое топлёное масло.</AC_ClarifyButterIntoGhee.jobString>
+
+    <AC_PressOil.label>Отжать масло</AC_PressOil.label>
+    <AC_PressOil.description>Переработать фрукты, орехи или семена в высококачественные масла. Количество получаемого масла зависит от используемого сырья.</AC_PressOil.description>
+    <AC_PressOil.jobString>Отжимает масло.</AC_PressOil.jobString>
+</LanguageData>

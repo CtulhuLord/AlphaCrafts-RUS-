@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <AC_MakeCondensedMilk.label>Сделать сгущённое молоко</AC_MakeCondensedMilk.label>
+    <AC_MakeCondensedMilk.description>Уварить молоко с сахаром для получения сгущённого молока.</AC_MakeCondensedMilk.description>
+    <AC_MakeCondensedMilk.jobString>Делает сгущённое молоко.</AC_MakeCondensedMilk.jobString>
+
+</LanguageData>

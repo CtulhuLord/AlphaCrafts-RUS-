@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+    <Operation Class="PatchOperationFindMod">
+        <mods>
+            <li>Alpha Crafts</li>
+        </mods>
+
+        <match Class="PatchOperationSequence">
+            <success>Always</success>
+
+            <operations>
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_Butter"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Butter"]/value</xpath>
+                    <value>
+                        <value>Сливочное масло</value>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_Butter"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Hemp butter"]/value</xpath>
+                    <value>
+                        <value>Конопляное масло</value>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_Butter"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Margarine"]/value</xpath>
+                    <value>
+                        <value>Маргарин</value>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_Butter"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Cocoa spread"]/value</xpath>
+                    <value>
+                        <value>Шоколадная паста</value>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_Butter"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Coconut butter"]/value</xpath>
+                    <value>
+                        <value>Кокосовое масло</value>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_Butter"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Peanut butter"]/value</xpath>
+                    <value>
+                        <value>Арахисовая паста</value>
+                    </value>
+                </li>
+
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_Essence"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Rainbow"]/value</xpath>
+                    <value>
+                        <value>Радуга</value>
+                    </value>
+                </li>
+
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_Flour"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Potato"]/value</xpath>
+                    <value>
+                        <value>Картофель</value>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_Flour"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Almond"]/value</xpath>
+                    <value>
+                        <value>Миндаль</value>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_Flour"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Chickpea"]/value</xpath>
+                    <value>
+                        <value>Нут</value>
+                    </value>
+                </li>
+
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_Chips"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Potato chips"]/value</xpath>
+                    <value>
+                        <value>Картофельные чипсы</value>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_Chips"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Pumpkin seeds"]/value</xpath>
+                    <value>
+                        <value>Тыквенные семечки</value>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_Chips"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Beet chips"]/value</xpath>
+                    <value>
+                        <value>Свекольные чипсы</value>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_Chips"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Sunflower seeds"]/value</xpath>
+                    <value>
+                        <value>Семена подсолнечника</value>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_Chips"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Yuca chips"]/value</xpath>
+                    <value>
+                        <value>Чипсы из юкки</value>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_Chips"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Sweet potato chips"]/value</xpath>
+                    <value>
+                        <value>Чипсы из батата</value>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_Chips"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Carrot chips"]/value</xpath>
+                    <value>
+                        <value>Морковные чипсы</value>
+                    </value>
+                </li>
+
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_Puree"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Potato mash"]/value</xpath>
+                    <value>
+                        <value>Картофельное пюре</value>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_Puree"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Applesauce"]/value</xpath>
+                    <value>
+                        <value>Яблочное пюре</value>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_Puree"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Guacamole"]/value</xpath>
+                    <value>
+                        <value>Гуакамоле</value>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_Puree"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Hummus"]/value</xpath>
+                    <value>
+                        <value>Хумус</value>
+                    </value>
+                </li>
+
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_InfusedMayonnaise"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Rainbow mayo"]/value</xpath>
+                    <value>
+                        <value>Радужный майонез</value>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_InfusedMayonnaise"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="CannaMayo"]/value</xpath>
+                    <value>
+                        <value>Канна-майонез</value>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_InfusedMayonnaise"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Herbal mayonnaise"]/value</xpath>
+                    <value>
+                        <value>Травяной майонез</value>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_InfusedMayonnaise"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Chili mayonnaise"]/value</xpath>
+                    <value>
+                        <value>Перечный майонез</value>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_InfusedMayonnaise"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Tomato mayonnaise"]/value</xpath>
+                    <value>
+                        <value>Томатный майонез</value>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_InfusedMayonnaise"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Wasabi mayonnaise"]/value</xpath>
+                    <value>
+                        <value>Васаби-майонез</value>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_InfusedMayonnaise"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Aioli"]/value</xpath>
+                    <value>
+                        <value>Айоли</value>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_InfusedMayonnaise"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Avocado mayonnaise"]/value</xpath>
+                    <value>
+                        <value>Майонез с авокадо</value>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_InfusedMayonnaise"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Mango mayonnaise"]/value</xpath>
+                    <value>
+                        <value>Манговый майонез</value>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_InfusedMayonnaise"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Lemon mayonnaise"]/value</xpath>
+                    <value>
+                        <value>Лимонный майонез</value>
+                    </value>
+                </li>
+
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_Oil"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Hemp"]/value</xpath>
+                    <value>
+                        <value>Конопля</value>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_Oil"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Soybean"]/value</xpath>
+                    <value>
+                        <value>Соя</value>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_Oil"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Avocado"]/value</xpath>
+                    <value>
+                        <value>Авокадо</value>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_Oil"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Olive"]/value</xpath>
+                    <value>
+                        <value>Оливки</value>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_Oil"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Sunflower"]/value</xpath>
+                    <value>
+                        <value>Подсолнечник</value>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_Oil"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Peanut"]/value</xpath>
+                    <value>
+                        <value>Арахис</value>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_Oil"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Coconut"]/value</xpath>
+                    <value>
+                        <value>Кокос</value>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_Oil"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Canola"]/value</xpath>
+                    <value>
+                        <value>Рапс</value>
+                    </value>
+                </li>
+
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_Perfume"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Strawberry"]/value</xpath>
+                    <value>
+                        <value>Клубника</value>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_Perfume"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Eau d'ambroisie"]/value</xpath>
+                    <value>
+                        <value>Амброзия</value>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_Perfume"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Rainbow"]/value</xpath>
+                    <value>
+                        <value>Радуга</value>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_Perfume"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Rose"]/value</xpath>
+                    <value>
+                        <value>Роза</value>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_Perfume"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Coconut"]/value</xpath>
+                    <value>
+                        <value>Кокос</value>
+                    </value>
+                </li>
+
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_Zest"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Lemon"]/value</xpath>
+                    <value>
+                        <value>Лимон</value>
+                    </value>
+                </li>
+                <li Class="PatchOperationReplace">
+                    <xpath>/Defs/ThingDef[defName="AC_Zest"]/comps/li[@Class="AlphaCrafts.CompProperties_LabelByIngredients"]/overrides/li[value="Orange"]/value</xpath>
+                    <value>
+                        <value>Апельсин</value>
+                    </value>
+                </li>
+
+            </operations>
+        </match>
+
+    </Operation>
+</Patch>

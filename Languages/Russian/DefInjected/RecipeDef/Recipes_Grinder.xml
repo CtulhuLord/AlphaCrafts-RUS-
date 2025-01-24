@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <AC_GrindFlours.label>Смолоть муку</AC_GrindFlours.label>
+    <AC_GrindFlours.description>Смолоть продукты в мелкую муку. Количество получаемой муки зависит от количества используемого сырья.</AC_GrindFlours.description>
+    <AC_GrindFlours.jobString>Мелет муку.</AC_GrindFlours.jobString>
+
+    <AC_GrindIntoChips.label>Изготовить чипсы</AC_GrindIntoChips.label>
+    <AC_GrindIntoChips.description>Измельчить продукты в чипсы. Количество получаемых чипсов зависит от количества используемого сырья.</AC_GrindIntoChips.description>
+    <AC_GrindIntoChips.jobString>Делает чипсы.</AC_GrindIntoChips.jobString>
+
+    <AC_MakePuree.label>Приготовить пюре</AC_MakePuree.label>
+    <AC_MakePuree.description>Измельчить продукты до однородного, кремообразного пюре, идеально подходящего для соусов, супов и других блюд.</AC_MakePuree.description>
+    <AC_MakePuree.jobString>Готовит пюре.</AC_MakePuree.jobString>
+
+    <AC_PepareGravy.label>Приготовить подливу</AC_PepareGravy.label>
+    <AC_PepareGravy.description>Приготовить насыщенную и густую подливу, измельчив мясо и добавив бульонную основу, затем тщательно загустив для получения гладкого и аппетитного соуса.</AC_PepareGravy.description>
+    <AC_PepareGravy.jobString>Готовит подливу.</AC_PepareGravy.jobString>
+
+</LanguageData>

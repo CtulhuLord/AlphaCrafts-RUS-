@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <AC_SoybeansToMiso.label>Ферментировать соевые бобы в мисо</AC_SoybeansToMiso.label>
+    <AC_SoybeansToMiso.description>Превращает 50 единиц соевых бобов в 5 единиц мисо.</AC_SoybeansToMiso.description>
+    <AC_SoybeansToMiso.labelOverride>Ферментация 50 единиц соевых бобов в 5 единиц мисо</AC_SoybeansToMiso.labelOverride>
+
+</LanguageData>

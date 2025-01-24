@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <AC_InsertProduceDesc>Добавить ингредиенты</AC_InsertProduceDesc>
+    <AC_StartInsertion>Начать добавление ингредиентов</AC_StartInsertion>
+    <AC_StartInsertionDesc>Добавьте ингредиенты в ферментер для начала обработки.</AC_StartInsertionDesc>
+    <AC_CancelBringingProduce>Отменить доставку ингредиентов</AC_CancelBringingProduce>
+    <AC_CancelBringingProduceDesc>Отменить доставку ингредиентов к ферментеру.</AC_CancelBringingProduceDesc>
+    <AC_VinegarFailurePower>Из-за отключения питания ферментера продукт испортился.</AC_VinegarFailurePower>
+    <AC_CaskNotWorking>Ферментер сейчас не работает.</AC_CaskNotWorking>
+    <AC_CantRunQuest>Задание сейчас невозможно выполнить (скорее всего, в мире нет союзных фракций).</AC_CantRunQuest>
+
+    <AC_DisableQuests>Отключить задания на торговлю изделиями ручной работы</AC_DisableQuests>
+    <AC_DisableQuests_Description>Отключает появление заданий, в которых поселения хотят купить большое количество изделий ручной работы. Обратите внимание: эти задания не зависят от других заданий или событий (набеги, охотники и т. д.) и не занимают их место.</AC_DisableQuests_Description>
+    <AC_QuestRate>Множитель частоты заданий на торговлю изделиями ручной работы</AC_QuestRate>
+    <AC_QuestRateTooltip>Частота появления заданий на торговлю изделиями ручной работы умножается на это значение (при множителе 1 задание предлагается случайным образом раз в 15–30 дней). Значения меньше 1 сокращают интервал, значения больше 1 — увеличивают. Обратите внимание: это событие не заменяет обычные задания, а работает независимо.</AC_QuestRateTooltip>
+    <AC_MarketValueModifier>Множитель рыночной стоимости изделий ручной работы</AC_MarketValueModifier>
+    <AC_MarketValueModifierTooltip>Рыночная стоимость изделий ручной работы умножается на это значение. Значение 0,1 означает, что изделия ручной работы будут почти ничего не стоить, а 5 — увеличит их стоимость в пять раз, соответственно, и прибыль. Делайте миллионеров на ферментированной рыбе, если хотите!</AC_MarketValueModifierTooltip>
+    <AC_StatsReport_ArtisanProduct>Изменения изделий ручной работы в настройках мода x{0}</AC_StatsReport_ArtisanProduct>
+    <AC_Reset>Сбросить</AC_Reset>
+    <AC_UseDropdownForMachines>Использовать выпадающий список для оборудования</AC_UseDropdownForMachines>
+    <AC_UseDropdownForMachines_Description>Если эта опция включена, все постройки, добавленные этим модом, будут отображаться под одним значком «Оборудование ручного производства» в меню строительства, а при нажатии на него появится выпадающий список для выбора нужной постройки. По умолчанию эта опция отключена, так как это вызывало замешательство у некоторых игроков. Требуется перезапуск игры.</AC_UseDropdownForMachines_Description>
+
+    <AC_CondimentEffects>Эффекты приправ</AC_CondimentEffects>
+    <AC_CondimentEffectsTitle>Действие в качестве приправы (требуется Vanilla Cooking Expanded)</AC_CondimentEffectsTitle>
+    <AC_CondimentEffectsButter>Употребление пищи с этим маслом в течение 12 часов увеличивает кровоток на 10%.</AC_CondimentEffectsButter>
+    <AC_CondimentEffectsSourCream>Употребление пищи с этой сметаной в течение 12 часов увеличивает скорость набора иммунитета на 5%, но снижает скорость передвижения на 10%.</AC_CondimentEffectsSourCream>
+    <AC_CondimentEffectsButtermilk>Употребление пищи с этими пахтами в течение 12 часов увеличивает скорость заживления ран на 12%, но снижает социальное влияние на 10%.</AC_CondimentEffectsButtermilk>
+    <AC_CondimentEffectsCondensedMilk>Употребление пищи с этим сгущённым молоком в течение 12 часов увеличивает психическую чувствительность на 15%, но также ускоряет снижение показателя отдыха на 5%.</AC_CondimentEffectsCondensedMilk>
+    <AC_CondimentEffectsVinegar>Употребление пищи с этим уксусом в течение 12 часов повышает сопротивляемость токсинам на 10%.</AC_CondimentEffectsVinegar>
+    <AC_CondimentEffectsFishSauce>Употребление пищи с этим рыбным соусом в течение 12 часов увеличивает ловкость на 8%, но снижает социальное влияние на 10% из-за сильного запаха.</AC_CondimentEffectsFishSauce>
+    <AC_CondimentEffectsMiso>Употребление пищи с этой пастой мисо в течение 12 часов улучшает фильтрацию крови на 5% и повышает психическую чувствительность на 5%.</AC_CondimentEffectsMiso>
+    <AC_CondimentEffectsBlackGarlic>Употребление пищи с этим чёрным чесноком в течение 12 часов обеспечивает незначительное восстановление ран.</AC_CondimentEffectsBlackGarlic>
+    <AC_CondimentEffectsFlour>Употребление пищи с этой мукой в течение 12 часов улучшает настроение на 3.</AC_CondimentEffectsFlour>
+    <AC_CondimentEffectsZest>Употребление пищи с этой цедрой в течение 12 часов замедляет снижение показателя радости на 10%.</AC_CondimentEffectsZest>
+    <AC_CondimentEffectsCornSyrup>Употребление пищи с этим кукурузным сиропом в течение 12 часов увеличивает скорость передвижения на 20%, но также снижает ловкость на 5%.</AC_CondimentEffectsCornSyrup>
+    <AC_CondimentEffectsMolasses>Употребление пищи с этой мелассой в течение 12 часов увеличивает глобальный коэффициент обучения на 5% и замедляет снижение показателя отдыха на 5%.</AC_CondimentEffectsMolasses>
+    <AC_CondimentEffectsEssence>Употребление пищи с этой эссенцией в течение 12 часов увеличивает скорость оказания медицинской помощи и проведения операций на 5%.</AC_CondimentEffectsEssence>
+    <AC_CondimentEffectsGravy>Употребление пищи с этой подливкой в течение 12 часов увеличивает скорость и количество сбора ресурсов с животных на 10%.</AC_CondimentEffectsGravy>
+    <AC_CondimentEffectsJam>Употребление пищи с этим джемом в течение 2 дней сокращает продолжительность негативных воспоминаний на 20%.</AC_CondimentEffectsJam>
+    <AC_CondimentEffectsGhee>Употребление пищи с этим топлёным маслом в течение 12 часов увеличивает кровоток на 12% и скорость набора иммунитета на 2,5%.</AC_CondimentEffectsGhee>
+
+</LanguageData>

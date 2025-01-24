@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <AC_ConsumedBlackGarlic.stages.consumed_black_garlic.label>Съел чёрный чеснок</AC_ConsumedBlackGarlic.stages.consumed_black_garlic.label>
+    <AC_ConsumedBlackGarlic.stages.consumed_black_garlic.description>Насыщенный и тёмный, с лёгкой сладостью.</AC_ConsumedBlackGarlic.stages.consumed_black_garlic.description>
+
+    <AC_ConsumedButter.stages.consumed_butter.label>Съел масло</AC_ConsumedButter.stages.consumed_butter.label>
+    <AC_ConsumedButter.stages.consumed_butter.description>Такой насыщенный и сливочный вкус.</AC_ConsumedButter.stages.consumed_butter.description>
+
+    <AC_ConsumedButtermilk.stages.consumed_buttermilk.label>Выпил обезжиренные сливки</AC_ConsumedButtermilk.stages.consumed_buttermilk.label>
+    <AC_ConsumedButtermilk.stages.consumed_buttermilk.description>Нежный, успокаивающий вкус.</AC_ConsumedButtermilk.stages.consumed_buttermilk.description>
+
+    <AC_ConsumedCondensedMilk.stages.consumed_condensed_milk.label>Съел сгущённое молоко</AC_ConsumedCondensedMilk.stages.consumed_condensed_milk.label>
+    <AC_ConsumedCondensedMilk.stages.consumed_condensed_milk.description>Сладкое и густое. Это из тех лакомств, вкус которых долго остаётся во рту, в самом лучшем смысле.</AC_ConsumedCondensedMilk.stages.consumed_condensed_milk.description>
+
+    <AC_ConsumedCornSyrup.stages.consumed_corn_syrup.label>Съел кукурузный сироп</AC_ConsumedCornSyrup.stages.consumed_corn_syrup.label>
+    <AC_ConsumedCornSyrup.stages.consumed_corn_syrup.description>Сладкий и тягучий, он даёт заряд энергии, но оставляет лёгкую липкость.</AC_ConsumedCornSyrup.stages.consumed_corn_syrup.description>
+
+    <AC_ConsumedEssence.stages.consumed_essence.label>Съел эссенцию</AC_ConsumedEssence.stages.consumed_essence.label>
+    <AC_ConsumedEssence.stages.consumed_essence.description>Ароматный и изысканный, освежающий, с долгим послевкусием.</AC_ConsumedEssence.stages.consumed_essence.description>
+
+    <AC_ConsumedFishSauce.stages.consumed_fish_sauce.label>Съел рыбный соус</AC_ConsumedFishSauce.stages.consumed_fish_sauce.label>
+    <AC_ConsumedFishSauce.stages.consumed_fish_sauce.description>Насыщенный и пикантный, с долгим послевкусием.</AC_ConsumedFishSauce.stages.consumed_fish_sauce.description>
+
+    <AC_ConsumedFlour.stages.consumed_specialty_flour.label>Съел особую муку</AC_ConsumedFlour.stages.consumed_specialty_flour.label>
+    <AC_ConsumedFlour.stages.consumed_specialty_flour.description>Простая и непритязательная, но хорошая основа для блюда.</AC_ConsumedFlour.stages.consumed_specialty_flour.description>
+
+    <AC_ConsumedGhee.stages.consumed_ghee.label>Съел ореховое топлёное масло</AC_ConsumedGhee.stages.consumed_ghee.label>
+    <AC_ConsumedGhee.stages.consumed_ghee.description>Чистое жирное наслаждение.</AC_ConsumedGhee.stages.consumed_ghee.description>
+
+    <AC_ConsumedGravy.stages.consumed_gravy.label>Съел подливу</AC_ConsumedGravy.stages.consumed_gravy.label>
+    <AC_ConsumedGravy.stages.consumed_gravy.description>Очень нежная, чувствуются лёгкие мясные нотки.</AC_ConsumedGravy.stages.consumed_gravy.description>
+
+    <AC_ConsumedJam.stages.consumed_jam.label>Съел джем</AC_ConsumedJam.stages.consumed_jam.label>
+    <AC_ConsumedJam.stages.consumed_jam.description>Просто восхитительно! Мне нравятся маленькие кусочки фруктов.</AC_ConsumedJam.stages.consumed_jam.description>
+
+    <AC_ConsumedMiso.stages.consumed_miso.label>Съел мисо</AC_ConsumedMiso.stages.consumed_miso.label>
+    <AC_ConsumedMiso.stages.consumed_miso.description>Глубокий, землистый и знакомый вкус.</AC_ConsumedMiso.stages.consumed_miso.description>
+
+    <AC_ConsumedMolasses.stages.consumed_molasses.label>Съел мелассу</AC_ConsumedMolasses.stages.consumed_molasses.label>
+    <AC_ConsumedMolasses.stages.consumed_molasses.description>Насыщенный и тёмный, с приятным долгим послевкусием.</AC_ConsumedMolasses.stages.consumed_molasses.description>
+
+    <AC_ConsumedSourCream.stages.consumed_sour_cream.label>Съел сметану</AC_ConsumedSourCream.stages.consumed_sour_cream.label>
+    <AC_ConsumedSourCream.stages.consumed_sour_cream.description>Прохладная и терпкая, словно лёгкий толчок, чтобы разбудить чувства.</AC_ConsumedSourCream.stages.consumed_sour_cream.description>
+
+    <AC_ConsumedVinegar.stages.consumed_vinegar.label>Съел уксус</AC_ConsumedVinegar.stages.consumed_vinegar.label>
+    <AC_ConsumedVinegar.stages.consumed_vinegar.description>Резкий вкус, который бодрит — но, возможно, немного слишком.</AC_ConsumedVinegar.stages.consumed_vinegar.description>
+
+    <AC_ConsumedZest.stages.consumed_zest.label>Съел цедру</AC_ConsumedZest.stages.consumed_zest.label>
+    <AC_ConsumedZest.stages.consumed_zest.description>Взрыв яркого вкуса, словно искра, пробуждающая чувства.</AC_ConsumedZest.stages.consumed_zest.description>
+
+</LanguageData>

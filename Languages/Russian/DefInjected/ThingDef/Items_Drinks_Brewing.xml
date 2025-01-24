@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <AC_ArtisanalKombucha.label>Комбуча</AC_ArtisanalKombucha.label>
+    <AC_ArtisanalKombucha.description>Ферментированный чайный напиток, известный своей лёгкой газированностью, нежной сладостью и освежающей кислинкой. Естественно богат пробиотиками и обладает лёгкой терпкостью.\n\n&lt;color=#E5E54C>Торговые соображения:&lt;/color>\n\n&lt;color=#E5E54C>Ингредиенты:&lt;/color> Для изготовления 50 единиц комбучи требуется 125 чайных листьев общей стоимостью 137.50, продаётся за 6, что даёт &lt;color=#33CC33>54.17%&lt;/color> прибыли за единицу.\n\n&lt;color=#E5E54C>Время ферментации:&lt;/color> 12 дней.\n\n&lt;color=#E5E54C>Торговля с караванами:&lt;/color> Вес составляет 0.3 кг, что даёт ценность за кг &lt;color=#33CC33>20&lt;/color>.\n\n&lt;color=#E5E54C>Прибыль в день:&lt;/color> В среднем прибыль в день составляет &lt;color=#33CC33>0.11&lt;/color> (для сравнения, у порошка психина 0.35).</AC_ArtisanalKombucha.description>
+    <AC_ArtisanalKombucha.ingestible.ingestCommandString>Выпить {0}</AC_ArtisanalKombucha.ingestible.ingestCommandString>
+    <AC_ArtisanalKombucha.ingestible.ingestReportString>Пьёт {0}.</AC_ArtisanalKombucha.ingestible.ingestReportString>
+
+    <AC_CoffeeLiquor.label>Кофейный ликёр</AC_CoffeeLiquor.label>
+    <AC_CoffeeLiquor.description>Ликёр, сочетающий в себе насыщенный, жареный аромат кофе с мягкой алкогольной основой. Обычно его изготавливают, настаивая жареные кофейные зёрна на дистиллированном спирте, часто с добавлением сладости и специй, создавая богатый, горьковато-сладкий вкус.\n\n&lt;color=#E5E54C>Торговые соображения:&lt;/color>\n\n&lt;color=#E5E54C>Ингредиенты:&lt;/color> Для изготовления 20 единиц кофейного ликёра требуется 125 кофейных зёрен общей стоимостью 137.50, продаётся за 16.50, что даёт &lt;color=#33CC33>58.33%&lt;/color> прибыли за единицу.\n\n&lt;color=#E5E54C>Время ферментации:&lt;/color> 10 дней.\n\n&lt;color=#E5E54C>Торговля с караванами:&lt;/color> Вес составляет 0.3 кг, что даёт ценность за кг &lt;color=#33CC33>55&lt;/color>.\n\n&lt;color=#E5E54C>Прибыль в день:&lt;/color> В среднем прибыль в день составляет &lt;color=#33CC33>0.30&lt;/color> (для сравнения, у порошка психина 0.3).</AC_CoffeeLiquor.description>
+    <AC_CoffeeLiquor.ingestible.ingestCommandString>Выпить {0}</AC_CoffeeLiquor.ingestible.ingestCommandString>
+    <AC_CoffeeLiquor.ingestible.ingestReportString>Пьёт {0}.</AC_CoffeeLiquor.ingestible.ingestReportString>
+
+    <AC_FlavouredKombucha.label>Ароматизированная комбуча</AC_FlavouredKombucha.label>
+    <AC_FlavouredKombucha.description>Ферментированный чайный напиток, известный своей лёгкой газированностью, нежной сладостью и освежающей кислинкой. Изготовленный небольшими партиями из тщательно отобранных чайных листьев, свежих фруктов и ароматных трав, каждая бутылка обладает уникальным вкусом.\n\n&lt;color=#E5E54C>Торговые соображения:&lt;/color>\n\n&lt;color=#E5E54C>Ингредиенты:&lt;/color> Для изготовления 10 единиц ароматизированной комбучи требуется 10 единиц кустарной комбучи и 30 фруктов или цветов общей стоимостью 96, продаётся за 28.50, что даёт &lt;color=#33CC33>66.32%&lt;/color> прибыли за единицу.\n\n&lt;color=#E5E54C>Ценность за работу:&lt;/color> Рецепт требует 4000 единиц работы, что даёт ценность за работу &lt;color=#33CC33>0.07&lt;/color>.\n\n&lt;color=#E5E54C>Торговля с караванами:&lt;/color> Вес составляет 0.3 кг, что даёт ценность за кг &lt;color=#33CC33>95&lt;/color>.\n\n&lt;color=#E5E54C>Прибыль в день:&lt;/color> В среднем прибыль в день составляет &lt;color=#33CC33>0.58&lt;/color> (для сравнения, у порошка психина 0.35).</AC_FlavouredKombucha.description>
+    <AC_FlavouredKombucha.ingestible.ingestCommandString>Выпить {0}</AC_FlavouredKombucha.ingestible.ingestCommandString>
+    <AC_FlavouredKombucha.ingestible.ingestReportString>Пьёт {0}.</AC_FlavouredKombucha.ingestible.ingestReportString>
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <AC_CoconutsToVinegar.label>Ферментировать кокосы в уксус</AC_CoconutsToVinegar.label>
+    <AC_CoconutsToVinegar.description>Превращает 50 кокосов в 25 единиц уксуса.</AC_CoconutsToVinegar.description>
+    <AC_CoconutsToVinegar.labelOverride>Ферментация 50 кокосов в 25 единиц уксуса</AC_CoconutsToVinegar.labelOverride>
+
+    <AC_GarlicToBlackGarlic.label>Ферментировать чеснок в чёрный чеснок</AC_GarlicToBlackGarlic.label>
+    <AC_GarlicToBlackGarlic.description>Превращает 50 единиц чеснока в 25 единиц чёрного чеснока.</AC_GarlicToBlackGarlic.description>
+    <AC_GarlicToBlackGarlic.labelOverride>Ферментация 50 единиц чеснока в 25 единиц чёрного чеснока</AC_GarlicToBlackGarlic.labelOverride>
+
+</LanguageData>

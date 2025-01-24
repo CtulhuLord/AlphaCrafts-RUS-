@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <AC_PrepareKimchi.label>Приготовить кимчи</AC_PrepareKimchi.label>
+    <AC_PrepareKimchi.description>Приготовить кимчи из капусты и специй.</AC_PrepareKimchi.description>
+    <AC_PrepareKimchi.jobString>Готовит кимчи.</AC_PrepareKimchi.jobString>
+
+    <AC_MakeButtermilk.label>Приготовить обезжиренные сливки с лимоном</AC_MakeButtermilk.label>
+    <AC_MakeButtermilk.description>Приготовить напиток, имитирующий пахту, из молока и лимона.</AC_MakeButtermilk.description>
+    <AC_MakeButtermilk.jobString>Делает обезжиренные сливки с лимоном.</AC_MakeButtermilk.jobString>
+
+    <AC_BrewChichaMorada.label>Приготовить чичу морада</AC_BrewChichaMorada.label>
+    <AC_BrewChichaMorada.description>Приготовить чичу морада из кукурузы, ананаса, специй и сахара.</AC_BrewChichaMorada.description>
+    <AC_BrewChichaMorada.jobString>Готовит чичу морада.</AC_BrewChichaMorada.jobString>
+
+    <AC_PrepareSurstromming.label>Приготовить сюрстрёмминг</AC_PrepareSurstromming.label>
+    <AC_PrepareSurstromming.description>Приготовить сюрстрёмминг из рыбы, соли и металла.</AC_PrepareSurstromming.description>
+    <AC_PrepareSurstromming.jobString>Готовит сюрстрёмминг.</AC_PrepareSurstromming.jobString>
+
+</LanguageData>

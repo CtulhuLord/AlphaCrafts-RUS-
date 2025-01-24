@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <AC_ArtisanTradeRequest.questDescriptionRules.rulesStrings>
+        <li>questDescription->Соседнее поселение [settlement_label] отправило особый запрос на торговлю продукцией ручной работы. Они хотели бы приобрести:\n\n[requestedThingCount]x [requestedThing_label] [qualityInfo] (стоимостью [requestedThingMarketValue_money])\n\nЕсли вы хотите совершить сделку, отправьте караван с запрошенными предметами. Предполагаемое время в пути: [estimatedTravelTime_duration].</li>
+        <li>qualityInfo(requestedThingHasQuality==True,priority=1)->качества не ниже обычного</li>
+        <li>qualityInfo-></li>
+    </AC_ArtisanTradeRequest.questDescriptionRules.rulesStrings>
+
+    <AC_ArtisanTradeRequest.questNameRules.rulesStrings>
+        <li>questName->Торговый запрос от [settlement_label]</li>
+        <li>questName->Поставка продукции для [settlement_label]</li>
+        <li>questName->Заказ от поселения [settlement_label]</li>
+    </AC_ArtisanTradeRequest.questNameRules.rulesStrings>
+
+    <AC_ArtisanTradeRequest.root.nodes.Letter.label.slateRef>Задание провалено: [resolvedQuestName]</AC_ArtisanTradeRequest.root.nodes.Letter.label.slateRef>
+
+    <AC_ArtisanTradeRequest.root.nodes.Letter.text.slateRef>Отношения с фракцией [faction_name] ухудшились.</AC_ArtisanTradeRequest.root.nodes.Letter.text.slateRef>
+
+    <AC_ArtisanTradeRequest.root.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.label.slateRef>[asker_faction_royalFavorLabel]</AC_ArtisanTradeRequest.root.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.label.slateRef>
+
+    <AC_ArtisanTradeRequest.root.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.text.slateRef>Кому присудить [asker_faction_royalFavorLabel] за выполнение торгового запроса?</AC_ArtisanTradeRequest.root.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.text.slateRef>
+
+</LanguageData>

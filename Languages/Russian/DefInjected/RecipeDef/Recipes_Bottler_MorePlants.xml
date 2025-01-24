@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <AC_MakeBlackMayonnaise.label>Приготовить майонез с чёрным чесноком</AC_MakeBlackMayonnaise.label>
+    <AC_MakeBlackMayonnaise.description>Этот рецепт сочетает классический майонез с насыщенным, пикантным вкусом чёрного чеснока. Результат — эффектный на вид, ароматный соус со сладковатыми нотками и умами.</AC_MakeBlackMayonnaise.description>
+    <AC_MakeBlackMayonnaise.ingredients.1.filter.customSummary>Майонез</AC_MakeBlackMayonnaise.ingredients.1.filter.customSummary>
+    <AC_MakeBlackMayonnaise.jobString>Готовит майонез с чёрным чесноком.</AC_MakeBlackMayonnaise.jobString>
+
+</LanguageData>
