@@ -15,12 +15,6 @@
   <supportedVersions>
     <li>1.5</li>
   </supportedVersions>
-  
-  <modDependencies>
-		<li>
-			<packageId>sarg.alphacrafts</packageId>
-		</li>
-  </modDependencies>
 	
   <description>Полный перевод Alpha Crafts для версии 1.5 на русский язык</description>
   
